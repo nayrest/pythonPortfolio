@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=1.4
+pydantic
+requests
+beautifulsoup4
+matplotlib
+python-multipart
